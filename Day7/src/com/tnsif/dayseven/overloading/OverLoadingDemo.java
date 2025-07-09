@@ -1,3 +1,4 @@
+
 package com.tnsif.dayseven.overloading;
 
 public class OverLoadingDemo {
@@ -11,8 +12,8 @@ public class OverLoadingDemo {
 		System.out.println(p1);
 		
 		System.out.println("---Method Overloading---");
-		System.out.println(MethodOverLoading.addition(3.14f, 23.67f));
-		System.out.println(MethodOverLoading.addition(1, 2, 3));
+		System.out.println(MethodOverloading.addition(3.14f, 23.67f));
+		System.out.println(MethodOverloading.addition(1, 2, 3));
 
 	}
 

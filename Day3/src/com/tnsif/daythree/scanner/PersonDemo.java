@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class PersonDemo {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		//Scanner object to accept user input 

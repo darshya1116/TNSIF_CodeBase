@@ -43,8 +43,4 @@ public class Person {
 	
 	
 	
-}package com.tnsif.hierarchicalinheritance;
-
-public class Person {
-
 }
